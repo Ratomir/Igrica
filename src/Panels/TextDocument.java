@@ -8,7 +8,7 @@ import javax.swing.text.PlainDocument;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class TextDocument extends DocumentFilter 
 {

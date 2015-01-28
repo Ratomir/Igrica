@@ -15,7 +15,7 @@ import javax.swing.JMenuItem;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class MenuBar extends JMenuBar
 {

@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class UpPanel 
 {

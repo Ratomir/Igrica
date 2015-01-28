@@ -19,7 +19,7 @@ import javax.swing.text.AbstractDocument;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class LeftUpPanel
 {

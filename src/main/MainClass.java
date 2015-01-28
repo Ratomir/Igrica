@@ -11,7 +11,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class MainClass 
 {

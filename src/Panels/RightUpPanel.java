@@ -19,7 +19,7 @@ import javax.swing.border.TitledBorder;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class RightUpPanel 
 {

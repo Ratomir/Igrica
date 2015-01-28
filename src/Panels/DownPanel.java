@@ -26,7 +26,7 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class DownPanel
 {

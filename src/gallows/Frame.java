@@ -14,7 +14,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author Ljiljana
+ * @author Ratomir
  */
 public class Frame extends JFrame
 {
