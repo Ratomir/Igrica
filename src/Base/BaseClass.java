@@ -31,6 +31,9 @@ public class BaseClass
         this.word = word;
     }
     
+    /**
+     * Constructor base class.
+     */
     public BaseClass()
     {
         BufferedReader reader;
